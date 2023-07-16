@@ -1,7 +1,7 @@
 import flwr as fl
 import tensorflow as tf
-
-from tf.keras.models import Sequential
+from tensorflow import keras
+from tensorflow.keras import Sequential
 from tf.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
 
 # Load the CIFAR10 dataset

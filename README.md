@@ -1,5 +1,4 @@
-# Federated Learning Setup README
-
+# Federated Learning Setup 
 ## Overview
 This repository contains code for setting up a Federated Learning (FL) server and client setup using Flower (FLwr). The FL server orchestrates model training across multiple clients, each with its own dataset.
 
